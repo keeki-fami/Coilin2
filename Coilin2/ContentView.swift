@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Coilin2
 //
-//  Created by 桜田聖和 on 2025/07/01.
+//  Created by  on 2025/07/01.
 //
 
 import SwiftUI
